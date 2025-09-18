@@ -33,7 +33,7 @@ IV. Other
 Const PI = 3.1415;
 ```
 
-![Smurft]()
+![Smurft](smurp.webp)
 :joy:
 
 `Const pi = 3.1415;`
